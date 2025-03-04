@@ -929,10 +929,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-changed@0.0.35":
-  version "0.0.35"
-  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.35.tgz#afbedb497ee0004dec41fd93f1fdf1160de19570"
-  integrity sha512-+Fg0PUE/u0LHEUiTtFWRPBf/E+txCtwrWervTWLT8mIgfvWMJ1iyKRAREhDW2xxtI5m6lXYpo/ADV1VNssRmMg==
+"@types/gulp-changed@0.0.39":
+  version "0.0.39"
+  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.39.tgz#f06e731a0f50926201340a101d645e2a3d114461"
+  integrity sha512-iW/0E8aQAZIVD6OAK2azY/5JCH77y2OPIjnNrjfQHmE6k05+51ABfsPospkZm+3S0jHrKuJ7ucImRLvKaR61Hg==
   dependencies:
     "@types/node" "*"
     "@types/vinyl" "*"
